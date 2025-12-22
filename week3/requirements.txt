@@ -1,0 +1,6 @@
+fastapi
+unicorn
+sqlalchemy
+passlib
+bcrypt
+pymysql
